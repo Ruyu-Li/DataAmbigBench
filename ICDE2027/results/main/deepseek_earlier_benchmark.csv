@@ -1,0 +1,10 @@
+subset,model,detection_type_f1_pct,detection_interpretation_strict_f1_pct,detection_interpretation_normalized_f1_pct,given_condition_exact_pct,given_condition_relaxed_pct,hinted_type_f1_pct,hinted_interpretation_strict_f1_pct,hinted_interpretation_normalized_f1_pct,hinted_e2e_strict_accuracy_pct,hinted_e2e_normalized_accuracy_pct,open_surfacing_rate_pct,open_answer_only_recall_pct,open_single_answer_correctness_pct
+SEC,DeepSeek-V4-Flash,100.0,100.0,100.0,5.2,100.0,100.0,100.0,100.0,100.0,100.0,0.1,26.9,53.4
+NASA POWER,DeepSeek-V4-Flash,64.5,84.2,84.2,92.5,100.0,67.8,86.9,86.9,100.0,100.0,15.3,17.2,12.5
+TAT-QA,DeepSeek-V4-Flash,33.3,27.5,84.1,98.8,100.0,52.3,46.6,85.3,47.0,85.8,29.0,38.8,23.1
+Retail,DeepSeek-V4-Flash,75.4,0.4,87.7,36.4,36.4,69.0,0.0,60.0,0.0,20.2,0.0,3.4,17.0
+AmbigDocs,DeepSeek-V4-Flash,99.8,39.7,95.6,95.2,99.6,99.3,83.8,97.2,84.2,97.0,79.5,87.0,20.0
+OpinionQA,DeepSeek-V4-Flash,92.5,0.0,91.9,99.1,99.1,98.2,0.0,95.6,0.0,96.0,6.0,56.6,89.5
+USC,DeepSeek-V4-Flash,98.5,0.0,47.5,97.5,99.8,99.0,47.5,76.5,65.0,82.0,31.5,58.8,54.5
+SF311,DeepSeek-V4-Flash,100.0,21.9,28.9,60.0,60.0,100.0,21.5,31.9,19.5,28.8,11.5,35.5,48.0
+Avg.,DeepSeek-V4-Flash,83.0,,77.5,,86.9,,,,,76.2,21.6,,
