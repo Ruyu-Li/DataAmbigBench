@@ -1,0 +1,9 @@
+file	queries	condition_answer_pairs	sha256	verification
+ambigdocs.jsonl	200	479	7fd81c1f2c9070aeb73dba0bf3acc2a361968d5c8baf50b8826662662cf594bd	Saved multimodel run audit (canonical full-record hash)
+nyc311.jsonl	200	711	d3d60f1300620ce2b9e3ddfb0057fb083a89c8fe8015f25e0f1333efda76bd48	Saved multimodel run audit (canonical full-record hash)
+opinionqa.jsonl	200	576	ab8f98e001ed33a46e7804f26ccee6a16195d43731a46b65b8137499ac6e6f33	Saved multimodel run audit (canonical full-record hash)
+retail.jsonl	200	1000	3ed30fb469f411ed505d7097bb5a00a1dadb9cfd3f07facece39bef3e38eb50a	Saved multimodel run audit (canonical full-record hash)
+sec.jsonl	200	400	dbe5ced856439287ad7be0662e28946540bc37195252c8ffe56bb0fd10fcc43c	Saved multimodel run audit (canonical full-record hash)
+sf311.jsonl	200	400	2b0585f2f66462697650e6c5fcf415a5a56a3e2084894f8dbdeba2aa74d94f85	Saved multimodel run audit (canonical full-record hash)
+tatqa.jsonl	200	496	3a85867a074d2e61aca5a166a6be7953c26ee4753dc04f4b29c9a12bd7013bf4	Five-model runner reference (IDs, queries, and gold)
+usc.jsonl	200	400	9c552bc92c1bee6e98f95775f5ad1c329fbb00e0348273e0f5e7be424dea1e28	Saved multimodel run audit (canonical full-record hash)
