@@ -1,5 +1,7 @@
 # DataAmbigBench — ICDE 2027 Reproducibility Materials
 
+[Evaluation data and upstream sources](./data/) — 1,600 queries across eight subsets, with 200 queries per subset.
+
 Download and extract the ZIP package for the workflow you need.
 
 | Goal | Package |
