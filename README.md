@@ -1,7 +1,8 @@
 # DataAmbigBench
 
 > **ICDE 2027.** Start with the [ICDE 2027 reproducibility materials](./ICDE2027/) for the 1,600-query benchmark and accompanying evaluation code. The root-level `data/`, `scripts/`, and `results/` directories document an earlier benchmark version.
-> 
+>
+> ## Earlier benchmark version
 This anonymous repository contains the benchmark data and evaluation code for
 **DataAmbigBench**, a benchmark for ambiguity-aware reasoning in data analytics.
 Each instance pairs an underspecified analytical query with a data context
