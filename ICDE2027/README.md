@@ -1,6 +1,10 @@
 # DataAmbigBench — ICDE 2027 Reproducibility Materials
 
+# DataAmbigBench — ICDE 2027 Reproducibility Materials
+
 [Evaluation data and upstream sources](./data/) — 1,600 queries across eight subsets, with 200 queries per subset.
+
+[Evaluation results](./results/) — Main evaluation scores, scalability results, token usage, and request latency.
 
 Download and extract the ZIP package for the workflow you need.
 
